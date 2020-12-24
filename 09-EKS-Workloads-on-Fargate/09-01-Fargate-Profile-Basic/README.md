@@ -52,14 +52,14 @@ kubectl get pods
 eksctl get fargateprofile --cluster eksdemo1
 
 # Template
-eksctl create fargateprofile --cluster <cluster_name> \
-                             --name <fargate_profile_name> \
-                             --namespace <kubernetes_namespace>
+eksctl create fargateprofile --cluster myeks \
+                             --name fp-myeks \
+                             --namespace fg-dev
 
 
 # Replace values
-eksctl create fargateprofile --cluster eksdemo1 \
-                             --name fp-demo \
+eksctl create fargateprofile --cluster myeks \
+                             --name fp-myeks \
                              --namespace fp-dev
 ```
 
