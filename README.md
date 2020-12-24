@@ -1,14 +1,10 @@
-# AWS EKS - Elastic Kubernetes Service - Masterclass
-
-[![Image](https://stacksimplify.com/course-images/AWS-EKS-Kubernetes-Masterclass-DevOps-Microservices-course.png "AWS EKS Kubernetes - Masterclass")](https://www.udemy.com/course/aws-eks-kubernetes-masterclass-devops-microservices/?referralCode=257C9AD5B5AF8D12D1E1)
-
-## Course Modules
+# AWS EKS - Elastic Kubernetes Service -
 
 | S.No | AWS Service Name |
 | ---- | ---------------- |
 | 1.   | Create AWS EKS Cluster using eksctl CLI |
-| 2.   | [Docker Fundamentals](https://github.com/stacksimplify/docker-fundamentals) |
-| 3.   | [Kubernetes Fundamentals](https://github.com/stacksimplify/kubernetes-fundamentals) |
+| 2.   | [Docker Fundamentals]( |
+| 3.   | [Kubernetes Fundamentals] |
 | 4.   | EKS Storage with AWS EBS CSI Driver |
 | 5.   | Kubernetes Important Concepts for Application Deployments |
 | 5.1  | Kubernetes - Secrets |
@@ -41,7 +37,7 @@
 | 18.  | EKS Monitoring using CloudWatch Agent & Fluentd - Container Insights |
 
 
-## AWS Services Covered
+## AWS Services Included
 
 | S.No | AWS Service Name |
 | ---- | ---------------- |
@@ -138,7 +134,7 @@
 - Notification Miroservice
 - Nginx Applications
 
-## What will students learn in your course?
+## More highlits
 - You will write kubernetes manifests with confidence after going through live template writing sections
 - You will learn 30+ kubernetes concepts and use 18 AWS Services in combination with EKS
 - You will learn Kubernetes Fundamentals in both imperative and declarative approaches
@@ -156,30 +152,14 @@
 - You will slowly start by learning Docker Fundamentals and move on to Kubenetes. 
 - You will master many kubectl commands over the process
 
-## Are there any course requirements or prerequisites?
+##  requirements or prerequisites?
 - You must have an AWS account to follow with me for hands-on activities.
 - You dont need to have any basic Docker or kubernetes knowledge to start this course.  
 
 
-## Who are your target students?
+## Who are need these repo ?
 - AWS Architects or Sysadmins or Developers who are planning to master Elastic Kubernetes Service (EKS) for running applications on Kubernetes
 - Any beginner who is interested in learning kubernetes on cloud using AWS EKS. 
 - Any beginner who is interested in learning Kubernetes DevOps and Microservices deployments on Kubernetes
 
-## Each of my courses come with
-- Amazing Hands-on Step By Step Learning Experiences
-- Real Implementation Experience
-- Friendly Support in the Q&A section
-- 30 Day "No Questions Asked" Money Back Guarantee!
-
-## My Other AWS Courses
-- [Udemy Enroll](https://github.com/stacksimplify/udemy-enroll)
-
-## Stack Simplify Udemy Profile
-- [Udemy Profile](https://www.udemy.com/user/kalyan-reddy-9/)
-
-
-# Azure Kubernetes Service with Azure DevOps and Terraform 
-
-[![Image](https://stacksimplify.com/course-images/azure-kubernetes-service-with-azure-devops-and-terraform.png "Azure Kubernetes Service with Azure DevOps and Terraform")](https://www.udemy.com/course/azure-kubernetes-service-with-azure-devops-and-terraform/?referralCode=2499BF7F5FAAA506ED42)
 
