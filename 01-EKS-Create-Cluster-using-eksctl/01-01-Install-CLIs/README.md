@@ -116,6 +116,10 @@ brew install weaveworks/tap/eksctl
 # Verify eksctl version
 eksctl version
 ```
+eksctl get nodegroup eksdemo1-ng-public1  --cluster=myeks
+
+eksctl delete nodegroup eksdemo1-ng-public1  --cluster=myeks
+`````
 
 ### Step-03-02: eksctl on windows or linux
 - For windows and linux OS, you can refer below documentation link. 
