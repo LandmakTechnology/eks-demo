@@ -157,7 +157,7 @@
 - You dont need to have any basic Docker or kubernetes knowledge to start this course.  
 
 
-## Who are need these repo ?
+## Repos target ?
 - AWS Architects or Sysadmins or Developers who are planning to master Elastic Kubernetes Service (EKS) for running applications on Kubernetes
 - Any beginner who is interested in learning kubernetes on cloud using AWS EKS. 
 - Any beginner who is interested in learning Kubernetes DevOps and Microservices deployments on Kubernetes
