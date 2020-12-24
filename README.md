@@ -134,7 +134,7 @@
 - Notification Miroservice
 - Nginx Applications
 
-## More highlits
+## More Details
 - You will write kubernetes manifests with confidence after going through live template writing sections
 - You will learn 30+ kubernetes concepts and use 18 AWS Services in combination with EKS
 - You will learn Kubernetes Fundamentals in both imperative and declarative approaches
