@@ -13,6 +13,7 @@ eksctl get nodegroup --cluster=eksdemo1
 # Delete Node Group - Replace nodegroup name and cluster name
 eksctl delete nodegroup <NodeGroup-Name> --cluster <Cluster-Name>
 eksctl delete nodegroup eksdemo1-ng-public1 --cluster eksdemo1
+eksctl delete nodegroup myeks-ng-public1 --cluster myeks --drain=false
 ```
 
 ## Step-03: Create EKS Node Group in Private Subnets
@@ -20,12 +21,12 @@ eksctl delete nodegroup eksdemo1-ng-public1 --cluster eksdemo1
 - Key option for the command is `--node-private-networking`
 
 ```
-eksctl create nodegroup --cluster=eksdemo1 \
+eksctl create nodegroup --cluster=myeks \
                         --region=us-east-1 \
-                        --name=eksdemo1-ng-private1 \
+                        --name=myeks-ng-private1 \
                         --node-type=t3.medium \
                         --nodes-min=2 \
-                        --nodes-max=4 \
+                        --nodes-max=5 \
                         --node-volume-size=20 \
                         --ssh-access \
                         --ssh-public-key=kube-demo \
