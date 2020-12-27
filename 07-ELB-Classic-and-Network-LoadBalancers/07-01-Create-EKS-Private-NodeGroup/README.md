@@ -29,7 +29,7 @@ eksctl create nodegroup --cluster=myeks \
                         --nodes-max=5 \
                         --node-volume-size=20 \
                         --ssh-access \
-                        --ssh-public-key=kube-demo \
+                        --ssh-public-key=key.nv \
                         --managed \
                         --asg-access \
                         --external-dns-access \
